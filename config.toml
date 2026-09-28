@@ -2,4 +2,3 @@ baseURL = 'https://shuamanory.github.io'
 locale = 'en-us'
 title = 'Shua Manory'
 theme = 'shibui'
-
