@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Shua Manory</title>
-		<link>https://shuamanory.github.io/posts/</link>
+		<link>http://localhost:1313/posts/</link>
 		<description>Recent content in Posts on Shua Manory</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,6 +10,15 @@
 		
 		
 		
-			<atom:link href="https://shuamanory.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Sun, 27 Sep 2026 23:36:01 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Test Post</title>
+				<link>http://localhost:1313/posts/test-post/</link>
+				<pubDate>Sun, 27 Sep 2026 23:36:01 -0400</pubDate>
+				<guid>http://localhost:1313/posts/test-post/</guid>
+				<description>&lt;h2 id=&#34;wow&#34;&gt;&#xA;  wow&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;this is so fun&amp;hellip; I&amp;rsquo;m making a website without writing code by hand, simply incredible. these framework things are amazing.. maybe I should&amp;rsquo;ve been using hugo this whole time rather than suffering through the work of handcoding layouts and setting up ultra-simple static site generators, I don&amp;rsquo;t know why I was so averse to this.. it&amp;rsquo;s not like some kind of terrible crime to have the work done for you. Besides this isn&amp;rsquo;t nearly as bad as using wordpress or something&amp;hellip;&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
